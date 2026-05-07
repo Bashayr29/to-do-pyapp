@@ -11,7 +11,7 @@ A simple desktop To-Do list application built with Python and Tkinter.
 
 ## Requirements
 
-- Python 3.x
+- Python
 - Tkinter (included in the standard Python distribution; on some Linux systems you may need to install it separately)
 
 ### Installing Tkinter on Linux
@@ -23,7 +23,7 @@ sudo apt-get install python3-tk
 ## Running the App
 
 ```bash
-python3 todo.py
+python todo.py
 ```
 
 > **Note:** No external dependencies or virtual environment are required — the app uses only the Python standard library.
